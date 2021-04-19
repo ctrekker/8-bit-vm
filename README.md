@@ -1,6 +1,8 @@
 # 8-bit-vm
 An 8-bit computer virtual machine for designing programs to run on my 8-bit Minecraft computer
 
+> See https://cotangent.dev/making-a-computer-inside-a-computer-with-julia/ for an in-depth description of how this computer works
+
 ## Why?
 This project is meant to be a virtual machine for an extremely simple computer. This computer only has a couple different instructions and only 16 bytes of RAM. It follows an identical architecture to the one being built inside Minecraft for the sake of learning. However, computers inside Minecraft are extremely slow due to the speed limits of its in-game circuits. As such this computer is meant to serve as a development machine for building programs which can run inside my Minecraft computer.
 
