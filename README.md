@@ -28,4 +28,4 @@ This will simply compile the file `fib.asm` and write the compiled output to `fi
 
 The full (but not very verbose) documentation for this computer can be found in [documentation.pdf](documentation.pdf)
 
-I am also working on an article that explains how this architecture works in greater detail.
+Check out this article I wrote for a far more details explaination of how this VM works: https://cotangent.dev/making-a-computer-inside-a-computer-with-julia/
